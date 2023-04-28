@@ -1,6 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/DdpmhAQpQZzwHSrQ3f/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/tqbayGDpciZuWLfgth/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/DdpmhAQpQZzwHSrQ3f/giphy.gif" width="200" href=""/>
+  <img src="https://media.giphy.com/media/tqbayGDpciZuWLfgth/giphy.gif" width="200" href=""/>
 </div>
 <div id="badges" align="">
   <a href="https://www.linkedin.com/in/stan-stelcher/">

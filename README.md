@@ -31,5 +31,3 @@
 </div>
 
 ---
-
-![Profile Views](https://komarev.com/ghpvc/?hliosone)

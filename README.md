@@ -14,7 +14,7 @@
 ### ~$ whoami
  Computer Science (cybersecurity oriented) at HEIG-VD in Switzerland. I'm spending most of my free times learning about blockchain and cybersecurity. Also going to events related to these topics.
 
-🔓 At the moment, I'm focusing on learning JS and Solidity in order to start blockchain development
+🔓 At the moment, I'm focusing on learning Java and Solidity in order to start blockchain development
 
 ---
 
